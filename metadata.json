@@ -1,0 +1,6 @@
+{
+  "name": "Morphix AI",
+  "description": "Professional AI-powered image enhancement, background removal, resizing, optimization and social-ready exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
